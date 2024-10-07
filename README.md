@@ -99,7 +99,7 @@ A KMeans clustering analysis was also performed on the most important features (
 
 ### 5.4 Crop Grouping by Clusters
 
-Crops were grouped into clusters based on their similarity in feature space. The following are the top 3 crops in each cluster:
+Crops were grouped into clusters based on their similarity in feature space. The following are the crops in each cluster:
 
 | Cluster | Crops                                           |
 |---------|-------------------------------------------------|
@@ -108,7 +108,7 @@ Crops were grouped into clusters based on their similarity in feature space. The
 | 2       | Chickpea, Kidneybeans                           |
 | 3       | Mungbean, Grapes, Watermelon, Muskmelon, Cotton |
 | 4       | Pomegranate, Banana, Apple, Orange              |
-| 5       | Maize, Mothbeans, Blackgram, Lentil Mango       |
+| 5       | Maize, Mothbeans, Blackgram, Lentil, Mango       |
 
 ## 6. Conclusion
 
@@ -127,14 +127,21 @@ Future improvements to this project could include:
 - Expanding the dataset to include more crops and geographic regions.
 - Using advanced ensemble methods, such as boosting or stacking, to improve accuracy further.
 
-## 7. Appendix
+## 8. Appendix
 
-### 7.1 Code Repository
+### 8.1 Code Repository
 
-The code and data used in this project can be found [here](#).
+The <a href="https://github.com/NRUTHVIIK1396/Crop-Recommendation/blob/main/crop_recommendation_predictive_analysis.ipynb">crop_recommendation_predictive_analysis.ipynb</a> file contains python code related to this project.
+* The Crop_recommendation.csv file contains data used in this project.
 
-### 7.2 References
+### 8.2 References
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Agricultural Data Resource](#) (Include dataset links or references)
+- [Agricultural Data Resource](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)
+
+### Contact and Further Information
+
+Ruthvik Nakka
+
+Email: nruthvik96@gmail.com
 
